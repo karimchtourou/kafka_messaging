@@ -1,5 +1,6 @@
 
 **start kafka server
+
 ~/kafka/bin/kafka-server-start.sh ~/kafka/config/server.properties
 
 **create topic test
